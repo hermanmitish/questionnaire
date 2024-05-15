@@ -1,0 +1,150 @@
+"use client";
+
+import {
+  Form,
+  FormControl,
+  FormField,
+  FormItem,
+  FormLabel,
+  FormMessage,
+} from "@/components/ui/form";
+import { Input } from "@/components/ui/input";
+import { zodResolver } from "@hookform/resolvers/zod";
+import { useForm } from "react-hook-form";
+
+import { z } from "zod";
+
+import { Button } from "@/components/ui/button";
+import {
+  Card,
+  CardContent,
+  CardDescription,
+  CardFooter,
+  CardHeader,
+  CardTitle,
+} from "@/components/ui/card";
+import { Textarea } from "@/components/ui/textarea";
+import { useToast } from "@/components/ui/use-toast";
+
+const formSchema = z.object({
+  name: z.string(),
+  answer: z.string(),
+  answer_ukraine: z.string(),
+});
+
+export function FormComponent() {
+  const { toast } = useToast();
+  const form = useForm<z.infer<typeof formSchema>>({
+    resolver: zodResolver(formSchema),
+    defaultValues: {
+      name: "",
+      answer: "",
+      answer_ukraine: "",
+    },
+  });
+
+  // 2. Define a submit handler.
+  function onSubmit(values: z.infer<typeof formSchema>) {
+    // Do something with the form values.
+    // ✅ This will be type-safe and validated.
+    console.log("Submitted: ", values);
+    toast({
+      title: "Thank you!",
+      description: "We received your answers and they will be shared soon.",
+    });
+    form.reset();
+  }
+  function onFail(e: any) {
+    // Do something with the form values.
+    // ✅ This will be type-safe and validated.
+    console.log(e);
+    toast({
+      title: "Error",
+      description: "Something went wrong: " + e,
+      variant: "destructive",
+    });
+  }
+  return (
+    <main className="flex min-h-screen flex-col items-center justify-between p-4">
+      <Card className="w-[350px]">
+        <Form {...form}>
+          <form
+            onSubmit={form.handleSubmit(onSubmit, onFail)}
+            className="space-y-4"
+          >
+            <CardHeader>
+              <CardTitle>Roots of resilience: Questionnaire</CardTitle>
+              <CardDescription>
+                Please, share with us and the community your thoughts on how
+                could resilience be built. All fields are optional.
+              </CardDescription>
+            </CardHeader>
+            <CardContent className="space-y-4">
+              <FormField
+                control={form.control}
+                name="name"
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>Your name or pseudonym</FormLabel>
+                    <FormControl>
+                      <Input {...field} />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+              <FormField
+                control={form.control}
+                name="answer"
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>
+                      Share an experience where you collaborated with others and
+                      helped your community in times of turmoil? What was your
+                      role?
+                    </FormLabel>
+                    <FormControl>
+                      <Textarea placeholder="What did you do?" {...field} />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+              <FormField
+                control={form.control}
+                name="answer_ukraine"
+                render={({ field }) => (
+                  <FormItem>
+                    <FormLabel>
+                      Share what actions have you taken if any to support people
+                      in Ukraine during war, or what would you like to do yet?
+                    </FormLabel>
+                    <FormControl>
+                      <Textarea
+                        placeholder="I will put a blue & yellow pin on my shirt"
+                        {...field}
+                      />
+                    </FormControl>
+                    <FormMessage />
+                  </FormItem>
+                )}
+              />
+            </CardContent>
+            <CardFooter className="flex justify-between">
+              <Button
+                type="reset"
+                variant="outline"
+                onClick={() => {
+                  form.reset();
+                }}
+              >
+                Clear
+              </Button>
+              <Button type="submit">Send</Button>
+            </CardFooter>
+          </form>
+        </Form>
+      </Card>
+    </main>
+  );
+}
