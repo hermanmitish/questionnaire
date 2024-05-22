@@ -62,7 +62,7 @@ export function FormComponent() {
           title: "Thank you!",
           description: "We received your answers and they will be shared soon.",
         });
-        // form.reset();
+        form.reset();
       } else {
         toast({
           title: "Error",
