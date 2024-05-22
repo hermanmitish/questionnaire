@@ -27,9 +27,9 @@ import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/components/ui/use-toast";
 
 const formSchema = z.object({
-  name: z.string(),
+  user: z.string(),
   answer: z.string(),
-  answer_ukraine: z.string(),
+  ukraine: z.string(),
 });
 
 export function FormComponent() {
@@ -37,22 +37,42 @@ export function FormComponent() {
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
     defaultValues: {
-      name: "",
+      user: "",
       answer: "",
-      answer_ukraine: "",
+      ukraine: "",
     },
   });
 
   // 2. Define a submit handler.
-  function onSubmit(values: z.infer<typeof formSchema>) {
+  async function onSubmit(values: z.infer<typeof formSchema>) {
     // Do something with the form values.
     // ✅ This will be type-safe and validated.
     console.log("Submitted: ", values);
-    toast({
-      title: "Thank you!",
-      description: "We received your answers and they will be shared soon.",
-    });
-    form.reset();
+    // submit that json to the /api endpoint
+    try {
+      const res = await fetch("/api", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+        },
+        body: JSON.stringify(values),
+      });
+      if (res.ok) {
+        toast({
+          title: "Thank you!",
+          description: "We received your answers and they will be shared soon.",
+        });
+        // form.reset();
+      } else {
+        toast({
+          title: "Error",
+          description: "Something went wrong: " + res.statusText,
+          variant: "destructive",
+        });
+      }
+    } catch (e) {
+      onFail(e);
+    }
   }
   function onFail(e: any) {
     // Do something with the form values.
@@ -82,7 +102,7 @@ export function FormComponent() {
             <CardContent className="space-y-4">
               <FormField
                 control={form.control}
-                name="name"
+                name="user"
                 render={({ field }) => (
                   <FormItem>
                     <FormLabel>Your name or pseudonym</FormLabel>
@@ -112,7 +132,7 @@ export function FormComponent() {
               />
               <FormField
                 control={form.control}
-                name="answer_ukraine"
+                name="ukraine"
                 render={({ field }) => (
                   <FormItem>
                     <FormLabel>
