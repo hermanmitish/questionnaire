@@ -1,5 +1,5 @@
 import * as neo4j from "neo4j-driver";
-
+export const revalidate = 0;
 export async function GET() {
   const uri = process.env.NEO4J_URI;
   const user = process.env.NEO4J_USERNAME;
