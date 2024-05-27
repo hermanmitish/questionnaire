@@ -65,7 +65,6 @@ export default function GraphVisual() {
       linkDirectionalParticles="value"
       linkAutoColorBy="name"
       linkLabel="name"
-      backgroundColor="#ffffff"
       linkColor="#000000"
     />
   );
