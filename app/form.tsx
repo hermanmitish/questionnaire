@@ -124,24 +124,9 @@ export function FormComponent() {
                       role?
                     </FormLabel>
                     <FormControl>
-                      <Textarea placeholder="What did you do?" {...field} />
-                    </FormControl>
-                    <FormMessage />
-                  </FormItem>
-                )}
-              />
-              <FormField
-                control={form.control}
-                name="ukraine"
-                render={({ field }) => (
-                  <FormItem>
-                    <FormLabel>
-                      Share what actions have you taken if any to support people
-                      in Ukraine during war, or what would you like to do yet?
-                    </FormLabel>
-                    <FormControl>
                       <Textarea
-                        placeholder="I will put a blue & yellow pin on my shirt"
+                        placeholder="What did you do? Please, describe in few sentences."
+                        rows={8}
                         {...field}
                       />
                     </FormControl>
