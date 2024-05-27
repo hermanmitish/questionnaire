@@ -1,3 +1,4 @@
+from datetime import datetime
 from dotenv import load_dotenv
 import spacy
 import os
@@ -93,11 +94,13 @@ def create_nodes_and_relationships(tx, entry):
     tx.run(
         """
         MERGE (u:User {name: $name})
-        SET u.answer = $answer, u.ukraine_help = $ukraine_help
+        SET u.answer = $answer, u.ukraine_help = $ukraine_help, u.created_at = $created_at, u.timestamp = $timestamp
         """,
         name=entry.get("user", "Anonymous"),
         answer=entry.get("answer", ""),
         ukraine_help=entry.get("ukraine", ""),
+        created_at=datetime.utcnow().isoformat(),
+        timestamp=datetime.utcnow().timestamp(),
     )
 
     # Create action nodes and relationships

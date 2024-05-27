@@ -50,7 +50,7 @@ export function FormComponent() {
     console.log("Submitted: ", values);
     // submit that json to the /api endpoint
     try {
-      const res = await fetch("/api", {
+      const res = await fetch("/api/process", {
         method: "POST",
         headers: {
           "Content-Type": "application/json",

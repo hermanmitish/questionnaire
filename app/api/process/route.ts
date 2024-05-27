@@ -15,6 +15,7 @@ export async function POST(request: Request) {
   } catch (e) {
     return new Response("Error", {
       headers: { "content-type": "application/json" },
+      status: 500,
     });
   }
 }
