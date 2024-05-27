@@ -3,6 +3,7 @@
 
 import {
   Card,
+  CardContent,
   CardDescription,
   CardHeader,
   CardTitle,
@@ -17,10 +18,13 @@ export function Answers() {
           <CardTitle>Roots of resilience: Answers</CardTitle>
           <CardDescription>
             Here you can see how your answers link you with the other
-            respondents in a community based on shared "Actions", "Resources",
-            and "Communities".
+            respondents based on shared "Actions", "Resources", and
+            "Communities". It is the outline of the community that would
+            mobilize resources, take actions and create resilience in the times
+            of turmoil.
           </CardDescription>
         </CardHeader>
+        <CardContent className="space-y-4"></CardContent>
       </Card>
       <GraphVisual />
     </main>
