@@ -33,7 +33,13 @@ const formSchema = z.object({
   ukraine: z.string(),
 });
 
-export function FormComponent() {
+export function FormComponent({
+  tab,
+  setTab,
+}: {
+  tab?: string;
+  setTab?: (v: string) => void;
+}) {
   const { toast } = useToast();
   const form = useForm<z.infer<typeof formSchema>>({
     resolver: zodResolver(formSchema),
@@ -77,6 +83,7 @@ export function FormComponent() {
       onFail(e);
     }
     setSubmitting(false);
+    setTab?.("answers");
   }
   function onFail(e: any) {
     // Do something with the form values.

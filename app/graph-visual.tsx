@@ -22,20 +22,28 @@ function getType(action?: string) {
   if (action === "PERFORMS") return "Action";
   if (action === "UTILIZES") return "Resource";
 }
+
+type DataState = {
+  nodes: any[];
+  links: any[];
+};
 export default function GraphVisual({ height }: { height?: number }) {
-  const [graphData, setGraphData] = useState({
-    nodes: [] as any[],
-    links: [] as any[],
+  const [graphData, setGraphData] = useState<DataState>({
+    nodes: [],
+    links: [],
   });
+  const fgRef = useRef<GraphForce>();
 
   useEffect(() => {
+    let textMap = new Map();
+    let angle = 0; // Start angle
+
     const fetchData = async () => {
       const res = await fetch("/api/result");
       const data: Data = await res.json();
       const nodes = new Map();
       const links: { source: string; target: string; name: string }[] = [];
 
-      console.log(data);
       data.forEach(({ u1, r, x, s, u2 }) => {
         if (!u1) return;
         nodes.set(u1.name, { ...u1, group: "User" });
@@ -86,51 +94,55 @@ export default function GraphVisual({ height }: { height?: number }) {
     fetchData();
     const interval = setInterval(fetchData, 10000); // Refresh every 10 seconds
 
-    return () => clearInterval(interval);
-  }, []);
-
-  const fgRef = useRef<GraphForce>();
-
-  useEffect(() => {
-    let angle = 0; // Start angle
-    let textMap = new Map();
-
     const rotateCamera = () => {
       if (!fgRef.current) return;
       const fg = fgRef.current as GraphForce;
       if (!fg) return;
       const scene = fg.scene();
+      const nodeSet = new Set();
+      const deleteSet = new Set();
       scene.traverse((node) => {
-        if ("geometry" in node) {
-          // assing type Mesh to node
-          const data = (node as any)?.__data;
-          console.log(data);
-          if (data) {
-            if (!textMap.get(data.id)) {
-              const sprite = new SpriteText(data.id); // Assuming 'id' is what you want to display
-              sprite.color = data.color || "black";
-              sprite.textHeight = 8;
+        const data = (node as any)?.__data;
+        if ("geometry" in node && data && data.id) {
+          nodeSet.add(data.id);
+          if (!textMap.get(data.id)) {
+            const sprite = new SpriteText(data.id); // Assuming 'id' is what you want to display
+            sprite.color = data.color || "black";
+            sprite.textHeight = 8;
 
-              scene.add(sprite); // Add the sprite text to each node
+            scene.add(sprite); // Add the sprite text to each node
+            sprite.position.set(
+              node.position.x + 10,
+              node.position.y + 10,
+              node.position.z + 10
+            );
+            textMap.set(data.id, sprite);
+          } else {
+            // just update the position
+            const sprite = textMap.get(data.id);
+            if (sprite) {
               sprite.position.set(
                 node.position.x + 10,
                 node.position.y + 10,
                 node.position.z + 10
               );
-              textMap.set(data.id, sprite);
-            } else {
-              // just update the position
-              const sprite = textMap.get(data.id);
-              if (sprite) {
-                sprite.position.set(
-                  node.position.x + 10,
-                  node.position.y + 10,
-                  node.position.z + 10
-                );
-              }
             }
           }
-          // console.log(data);
+        }
+        if ("_text" in node) {
+          if (!nodeSet.has(node._text)) {
+            const id = node._text;
+            deleteSet.add(id);
+            console.log("Clearing text", id);
+          }
+        }
+      });
+
+      deleteSet.forEach((id) => {
+        const sprite = textMap.get(id);
+        if (sprite) {
+          scene.remove(sprite);
+          textMap.delete(id);
         }
       });
 
@@ -152,6 +164,13 @@ export default function GraphVisual({ height }: { height?: number }) {
     };
 
     rotateCamera();
+    return () => {
+      clearInterval(interval);
+      textMap.forEach((sprite) => {
+        if (sprite.parent) sprite.parent.remove(sprite);
+      });
+      textMap.clear();
+    };
   }, []);
 
   return (
