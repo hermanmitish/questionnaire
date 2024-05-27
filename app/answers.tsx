@@ -7,11 +7,13 @@ import {
   CardHeader,
   CardTitle,
 } from "@/components/ui/card";
-import GraphVisual from "./graph-visual";
 
 import { Button } from "@/components/ui/button";
 import Link from "next/link";
 import { useMediaQuery } from "react-responsive";
+
+import dynamic from "next/dynamic";
+const GraphVisual = dynamic(() => import("./graph-visual"), { ssr: false });
 
 export function Answers() {
   // Detect if mobile or desktop
