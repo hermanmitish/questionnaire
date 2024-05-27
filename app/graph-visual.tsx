@@ -106,7 +106,7 @@ export default function GraphVisual({ height }: { height?: number }) {
           const data = (node as any)?.__data;
           console.log(data);
           if (data) {
-            if (!data?.addedText) {
+            if (!textMap.get(data.id)) {
               const sprite = new SpriteText(data.id); // Assuming 'id' is what you want to display
               sprite.color = data.color || "black";
               sprite.textHeight = 8;
@@ -117,7 +117,6 @@ export default function GraphVisual({ height }: { height?: number }) {
                 node.position.y + 10,
                 node.position.z + 10
               );
-              data.addedText = true;
               textMap.set(data.id, sprite);
             } else {
               // just update the position
