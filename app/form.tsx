@@ -25,9 +25,10 @@ import {
 } from "@/components/ui/card";
 import { Textarea } from "@/components/ui/textarea";
 import { useToast } from "@/components/ui/use-toast";
+import { useState } from "react";
 
 const formSchema = z.object({
-  user: z.string(),
+  user: z.string().min(2),
   answer: z.string(),
   ukraine: z.string(),
 });
@@ -42,9 +43,11 @@ export function FormComponent() {
       ukraine: "",
     },
   });
+  const [submitting, setSubmitting] = useState(false);
 
   // 2. Define a submit handler.
   async function onSubmit(values: z.infer<typeof formSchema>) {
+    setSubmitting(true);
     // Do something with the form values.
     // ✅ This will be type-safe and validated.
     console.log("Submitted: ", values);
@@ -73,6 +76,7 @@ export function FormComponent() {
     } catch (e) {
       onFail(e);
     }
+    setSubmitting(false);
   }
   function onFail(e: any) {
     // Do something with the form values.
@@ -107,7 +111,7 @@ export function FormComponent() {
                   <FormItem>
                     <FormLabel>Your name or pseudonym</FormLabel>
                     <FormControl>
-                      <Input {...field} />
+                      <Input {...field} required />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
@@ -142,10 +146,13 @@ export function FormComponent() {
                 onClick={() => {
                   form.reset();
                 }}
+                disabled={submitting}
               >
                 Clear
               </Button>
-              <Button type="submit">Send</Button>
+              <Button type="submit" disabled={submitting}>
+                Send
+              </Button>
             </CardFooter>
           </form>
         </Form>
