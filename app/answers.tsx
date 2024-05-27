@@ -1,8 +1,8 @@
+/* eslint-disable react/no-unescaped-entities */
 "use client";
 
 import {
   Card,
-  CardContent,
   CardDescription,
   CardHeader,
   CardTitle,
@@ -17,11 +17,10 @@ export function Answers() {
           <CardTitle>Roots of resilience: Answers</CardTitle>
           <CardDescription>
             Here you can see how your answers link you with the other
-            respondents in a community that could mobilize resources and take
-            action and create resilience in the times of turmoil.
+            respondents in a community based on shared "Actions", "Resources",
+            and "Communities".
           </CardDescription>
         </CardHeader>
-        <CardContent className="space-y-4"></CardContent>
       </Card>
       <GraphVisual />
     </main>
