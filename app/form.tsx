@@ -11,7 +11,6 @@ import {
 import { Input } from "@/components/ui/input";
 import { zodResolver } from "@hookform/resolvers/zod";
 import { useForm } from "react-hook-form";
-
 import { z } from "zod";
 
 import { Button } from "@/components/ui/button";
@@ -53,6 +52,15 @@ export function FormComponent({
 
   // 2. Define a submit handler.
   async function onSubmit(values: z.infer<typeof formSchema>) {
+    if (true) {
+      toast({
+        title: "We are sorry!",
+        description:
+          "We are not accepting new answers at the moment. Please, contact us at herman.mitish@gmail.com for more information on this project.",
+        variant: "destructive",
+      });
+      return;
+    }
     setSubmitting(true);
     // Do something with the form values.
     // ✅ This will be type-safe and validated.
@@ -95,6 +103,7 @@ export function FormComponent({
       variant: "destructive",
     });
   }
+  const disabled = true;
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-4">
       <Card className="w-[350px]">
@@ -106,8 +115,12 @@ export function FormComponent({
             <CardHeader>
               <CardTitle>Roots of resilience: Questionnaire</CardTitle>
               <CardDescription>
-                Please, share with us and the community your thoughts on how
-                could resilience be built. All fields are optional.
+                We are no longer accepting new answers at the moment. Please,
+                contact us at herman.mitish@gmail.com for more information on
+                this project. <br />
+                ---
+                <br /> Please, share with us and the community your thoughts on
+                how could resilience be built. All fields are optional.
               </CardDescription>
             </CardHeader>
             <CardContent className="space-y-4">
@@ -118,7 +131,7 @@ export function FormComponent({
                   <FormItem>
                     <FormLabel>Your name or pseudonym</FormLabel>
                     <FormControl>
-                      <Input {...field} required />
+                      <Input {...field} required disabled={disabled} />
                     </FormControl>
                     <FormMessage />
                   </FormItem>
@@ -138,6 +151,7 @@ export function FormComponent({
                       <Textarea
                         placeholder="What did you do? Please, describe in few sentences."
                         rows={8}
+                        disabled={disabled}
                         {...field}
                       />
                     </FormControl>
@@ -153,11 +167,11 @@ export function FormComponent({
                 onClick={() => {
                   form.reset();
                 }}
-                disabled={submitting}
+                disabled={submitting || disabled}
               >
                 Clear
               </Button>
-              <Button type="submit" disabled={submitting}>
+              <Button type="submit" disabled={submitting || disabled}>
                 Send
               </Button>
             </CardFooter>

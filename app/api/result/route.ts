@@ -1,3 +1,4 @@
+import fs from "fs/promises";
 import * as neo4j from "neo4j-driver";
 export const revalidate = 0;
 export async function GET() {
@@ -28,6 +29,9 @@ export async function GET() {
       s: record.get("s")?.type,
       u2: record.get("u2")?.properties,
     }));
+
+    // Save response to the local json file
+    fs.writeFile("./data.json", JSON.stringify(records, null, 2));
 
     return new Response(JSON.stringify(records, null, 2), {
       headers: { "Content-Type": "application/json" },

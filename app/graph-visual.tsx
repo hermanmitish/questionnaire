@@ -2,6 +2,8 @@ import { useEffect, useRef, useState } from "react";
 import { ForceGraph3D } from "react-force-graph";
 import SpriteText from "three-spritetext";
 import { TrackballControls } from "three-stdlib";
+import data from "./data.json";
+
 type Data = {
   u1: { name: string };
   r: string;
@@ -39,12 +41,12 @@ export default function GraphVisual({ height }: { height?: number }) {
     let angle = 0; // Start angle
 
     const fetchData = async () => {
-      const res = await fetch("/api/result");
-      const data: Data = await res.json();
+      // const res = await fetch("/api/result");
+      // const data: Data = await res.json();
       const nodes = new Map();
       const links: { source: string; target: string; name: string }[] = [];
 
-      data.forEach(({ u1, r, x, s, u2 }) => {
+      (data as Data).forEach(({ u1, r, x, s, u2 }) => {
         if (!u1) return;
         nodes.set(u1.name, { ...u1, group: "User" });
         if (u2) nodes.set(u2.name, { ...u2, group: "User" });

@@ -1,0 +1,2165 @@
+[
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "work"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "reconstruction"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Collecting data about destroyed building and potential materials resources for the reconstruction of Ukrainian cities. ",
+      "name": "Svitlana ",
+      "created_at": "2024-05-31T12:01:25.734112",
+      "timestamp": 1717156885.734127
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "project"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "",
+      "name": "Ilya",
+      "created_at": "2024-05-28T19:43:04.148843",
+      "timestamp": 1716925384.148861
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Served as an English volunteer, raised donations when I was physically distant and made sure it would not be forgotten in daily noise ",
+      "name": "JZG",
+      "created_at": "2024-05-28T20:16:13.078891",
+      "timestamp": 1716927373.078907
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "serve"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I organized lectures and workshops for students",
+      "name": "Dmytro",
+      "created_at": "2024-05-29T00:53:38.567302",
+      "timestamp": 1716944018.567317
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "organize"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "We organized a free mental health service for psychological support for internally displaced people and refugees.",
+      "name": "Halyna",
+      "created_at": "2024-05-31T02:07:02.942718",
+      "timestamp": 1717121222.942732
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I organized lectures and workshops for students",
+      "name": "Dmytro",
+      "created_at": "2024-05-29T00:53:38.567302",
+      "timestamp": 1716944018.567317
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "students"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "",
+      "name": "Elizabeth ",
+      "created_at": "2024-05-29T18:03:54.879154",
+      "timestamp": 1717005834.879167
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Teaching and dancing\n",
+      "name": "Ouss",
+      "created_at": "2024-05-29T21:37:39.231047",
+      "timestamp": 1717018659.231061
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Stayed calm and Carried on",
+      "name": "Omg",
+      "created_at": "2024-05-30T00:15:07.902404",
+      "timestamp": 1717028107.902419
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "serve"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Served as an English volunteer, raised donations when I was physically distant and made sure it would not be forgotten in daily noise ",
+      "name": "JZG",
+      "created_at": "2024-05-28T20:16:13.078891",
+      "timestamp": 1716927373.078907
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "people"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "We organized a free mental health service for psychological support for internally displaced people and refugees.",
+      "name": "Halyna",
+      "created_at": "2024-05-31T02:07:02.942718",
+      "timestamp": 1717121222.942732
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "community"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "community"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Cleaned up debris",
+      "name": "Hannah",
+      "created_at": "2024-05-30T18:56:27.101550",
+      "timestamp": 1717095387.101564
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "We organized a free mental health service for psychological support for internally displaced people and refugees.",
+      "name": "Halyna",
+      "created_at": "2024-05-31T02:07:02.942718",
+      "timestamp": 1717121222.942732
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "organize"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I organized lectures and workshops for students",
+      "name": "Dmytro",
+      "created_at": "2024-05-29T00:53:38.567302",
+      "timestamp": 1716944018.567317
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "We organized a free mental health service for psychological support for internally displaced people and refugees.",
+      "name": "Halyna",
+      "created_at": "2024-05-31T02:07:02.942718",
+      "timestamp": 1717121222.942732
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "people"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Collecting data about destroyed building and potential materials resources for the reconstruction of Ukrainian cities. ",
+      "name": "Svitlana ",
+      "created_at": "2024-05-31T12:01:25.734112",
+      "timestamp": 1717156885.734127
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukrainian"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Collecting data about destroyed building and potential materials resources for the reconstruction of Ukrainian cities. ",
+      "name": "Svitlana ",
+      "created_at": "2024-05-31T12:01:25.734112",
+      "timestamp": 1717156885.734127
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "reconstruction"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Collecting data about destroyed building and potential materials resources for the reconstruction of Ukrainian cities. ",
+      "name": "Svitlana ",
+      "created_at": "2024-05-31T12:01:25.734112",
+      "timestamp": 1717156885.734127
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "building"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "community"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "community"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukraine"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukraine"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukrainian"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Collecting data about destroyed building and potential materials resources for the reconstruction of Ukrainian cities. ",
+      "name": "Svitlana ",
+      "created_at": "2024-05-31T12:01:25.734112",
+      "timestamp": 1717156885.734127
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukraine"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukraine"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Fight lead donate will speech action motivate",
+      "name": "Rob W",
+      "created_at": "2024-05-28T16:03:08.543585",
+      "timestamp": 1716912188.543599
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "donate"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "develop"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "bring"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "work"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "project"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "aid"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "building"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Collecting data about destroyed building and potential materials resources for the reconstruction of Ukrainian cities. ",
+      "name": "Svitlana ",
+      "created_at": "2024-05-31T12:01:25.734112",
+      "timestamp": 1717156885.734127
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "rebuild"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "community"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Volunteering with church that would serve the community. Gift to organisations that would be serving the people in need",
+      "name": "Amanda ",
+      "created_at": "2024-05-30T18:53:17.058218",
+      "timestamp": 1717095197.058234
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "community"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Donating to community organizations",
+      "name": "Kena",
+      "created_at": "2024-05-31T16:42:26.335197",
+      "timestamp": 1717173746.335215
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "rebuild"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukraine"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "BELONGS_TO",
+    "x": {
+      "name": "Ukraine"
+    },
+    "s": "BELONGS_TO",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "bring"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "aid"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Journalist in the war zone ",
+      "name": "TK",
+      "created_at": "2024-05-28T00:42:38.173140",
+      "timestamp": 1716856958.173154
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "Crime investigation ",
+      "name": "KL",
+      "created_at": "2024-05-28T00:45:50.891263",
+      "timestamp": 1716857150.891277
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I have donated. Also worked on reconstruction project for an infrastructure of a recently liberated city. Helped with quickly emerging needs, trying to resolve them. ",
+      "name": "LT",
+      "created_at": "2024-05-28T16:00:23.028978",
+      "timestamp": 1716912023.029009
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have a Ukrainian flag on my window, and I used to donate monthly - to Sternenko or Prytula foundations, as well the volunteers I know",
+      "answer": "I helped my wife Kate to arrange an exhibition at MIT about Ukraine",
+      "name": "Herman Mitish",
+      "created_at": "2024-05-27T13:16:43.282723",
+      "timestamp": 1716815803.282765
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "Once, I helped rebuild the public center through tactical intervention and community participation. ",
+      "name": "student",
+      "created_at": "2024-05-27T18:14:28.148663",
+      "timestamp": 1716833668.148677
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "While traveling in the Kurdish region of Iran, I helped local residents rebuild their cowsheds.",
+      "name": "Joe",
+      "created_at": "2024-05-27T23:08:34.680682",
+      "timestamp": 1716851314.680696
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "help"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "\nI was helping bring humanitarian aid to Ukraine",
+      "name": "Kateryna",
+      "created_at": "2024-05-28T00:03:03.725978",
+      "timestamp": 1716854583.725992
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "PERFORMS",
+    "x": {
+      "name": "develop"
+    },
+    "s": "PERFORMS",
+    "u2": {
+      "ukraine_help": "I have been donating funds, sending humanitarian aid and supporting grassroots initiatives. ",
+      "answer": "I helped develop capacity building strategies for communities with the high level of destruction due to the russian aggression. I work on urban resilience project and bring awareness about what is happening in Ukraine to the Academic communities outside Ukraine. ",
+      "name": "kati",
+      "created_at": "2024-05-27T13:26:50.768034",
+      "timestamp": 1716816410.768049
+    }
+  },
+  {
+    "u1": {
+      "ukraine_help": "",
+      "answer": "I helped smallholder farmers in Pakistan to develop better soil moisture measurements by developing a low cost IoT system. It allows them to determine the state of the soil two days before traditional methods. The system is being assembled and maintained by students at the University of Lahore, creating a small economy on site.",
+      "name": "Leo",
+      "created_at": "2024-05-28T02:32:40.339789",
+      "timestamp": 1716863560.339826
+    },
+    "r": "UTILIZES",
+    "x": {
+      "name": "students"
+    },
+    "s": "UTILIZES",
+    "u2": {
+      "ukraine_help": "",
+      "answer": "I organized lectures and workshops for students",
+      "name": "Dmytro",
+      "created_at": "2024-05-29T00:53:38.567302",
+      "timestamp": 1716944018.567317
+    }
+  }
+]
